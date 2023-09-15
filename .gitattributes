@@ -3,6 +3,6 @@
 *.scss linguist-vendored
 *.js linguist-vendored
 *.js linguist-detectable=true
-*.html linguist-detectable=false
+*.html linguist-detectable=true
 *.xml linguist-detectable=false
 CHANGELOG.md export-ignore
